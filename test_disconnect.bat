@@ -1,0 +1,1 @@
+java -jar jython.jar -Dpython.cachedir.skip=false test_disconnect.py
